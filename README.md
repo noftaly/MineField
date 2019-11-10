@@ -9,15 +9,15 @@ Hope you will enjoy it, feel free to contribute.
 
 ## Images
 
-<img src="/static/arena">
+<img src="/static/arena.png">
 This is what the arena looks like !
 <br /><br />
 
-<img src="/static/cheats">
+<img src="/static/cheats.png">
 This is what the arena looks like with cheats turned on. Here we can see the "biping" area around each mine
 <br /><br />
 
-<img src="/static/explosion_small">
-<img src="/static/explosion_big">
-<img src="/static/explosion_big2">
+<img src="/static/explosion_small.png">
+<img src="/static/explosion_big.png">
+<img src="/static/explosion_big2.png">
 This is what an explosion looks like
